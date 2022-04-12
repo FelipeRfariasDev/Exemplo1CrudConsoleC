@@ -1,0 +1,62 @@
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\Aula1.exe
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\Aula1.deps.json
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\Aula1.runtimeconfig.json
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\Aula1.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\ref\Aula1.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\Aula1.pdb
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\obj\Debug\net6.0\Aula1.csproj.AssemblyReference.cache
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\obj\Debug\net6.0\Aula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\obj\Debug\net6.0\Aula1.AssemblyInfoInputs.cache
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\obj\Debug\net6.0\Aula1.AssemblyInfo.cs
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\obj\Debug\net6.0\Aula1.csproj.CoreCompileInputs.cache
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\obj\Debug\net6.0\Aula1.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\obj\Debug\net6.0\ref\Aula1.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\obj\Debug\net6.0\Aula1.pdb
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\obj\Debug\net6.0\Aula1.genruntimeconfig.cache
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\appsettings.json
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\3CON\Documents\projetos .net\blog\Aula1\Aula1\obj\Debug\net6.0\Aula1.csproj.CopyComplete
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\Aula1.exe
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\appsettings.json
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\Aula1.deps.json
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\Aula1.runtimeconfig.json
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\Aula1.dll
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\ref\Aula1.dll
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\Aula1.pdb
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\projetos dotnet core 6\Aula1\Aula1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\projetos dotnet core 6\Aula1\Aula1\obj\Debug\net6.0\Aula1.csproj.AssemblyReference.cache
+C:\projetos dotnet core 6\Aula1\Aula1\obj\Debug\net6.0\Aula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos dotnet core 6\Aula1\Aula1\obj\Debug\net6.0\Aula1.AssemblyInfoInputs.cache
+C:\projetos dotnet core 6\Aula1\Aula1\obj\Debug\net6.0\Aula1.AssemblyInfo.cs
+C:\projetos dotnet core 6\Aula1\Aula1\obj\Debug\net6.0\Aula1.csproj.CoreCompileInputs.cache
+C:\projetos dotnet core 6\Aula1\Aula1\obj\Debug\net6.0\Aula1.csproj.CopyComplete
+C:\projetos dotnet core 6\Aula1\Aula1\obj\Debug\net6.0\Aula1.dll
+C:\projetos dotnet core 6\Aula1\Aula1\obj\Debug\net6.0\ref\Aula1.dll
+C:\projetos dotnet core 6\Aula1\Aula1\obj\Debug\net6.0\Aula1.pdb
+C:\projetos dotnet core 6\Aula1\Aula1\obj\Debug\net6.0\Aula1.genruntimeconfig.cache
